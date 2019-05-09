@@ -1,0 +1,50 @@
+html {
+    background-image: url(bones.jpg);
+}
+
+body {
+    width: 700px;
+    padding: 50px;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body {
+    text-align: center;
+    font-family: Verdana, sans-serif;
+    font-variant: small-caps;
+}
+
+body {
+    border: 4px double #99ccff;
+    background-color: #e6f9ff;
+}
+
+a {
+    font-size: 12pt;
+    color: #000000;
+    text-decoration: none;
+}
+
+a hover {
+    color: #99ccff;
+}
+
+h1 {
+    font-size: 36pt;
+    color: #000;
+    border-top: 1px solid #000000;
+    border-bottom: 1px solid #000000;
+    text-transform: uppercase;
+}
+
+p {
+    font-size: 12pt;
+    line-height: 16pt;
+}
+
+img {
+    border: medium solid #666;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 3);
+}
