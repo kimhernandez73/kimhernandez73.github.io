@@ -1,0 +1,46 @@
+body {
+    background-color: #ffe0e9;
+    font-color: #5b5484;
+    font-family: 'didact gothic';
+    text-align: center
+}
+
+a {
+    font-color: #5b5484;
+    font-family: modak;
+    text-decoration: none;
+    font-size: 40px;
+}
+
+a:hover {
+    color: #ffe0e9;
+    border: solid 1px;
+    padding: 2px;
+    background-color: #5b5484;
+}
+
+a:visited {
+    font-color: a3a3ft;
+}
+
+P {
+    background-color: #efefef;
+    border: double #5b5484 8px;
+    padding: 10px;
+}
+
+section {
+    background-color: #efefef;
+    border: double #5b5484 3px;
+    padding: 10px;
+}
+
+
+H1 {
+    font-family: modak;
+    text-decoration: none;
+    font-size: 40px;
+    font-color: #5b5484;
+}
+
+img {box-shadow: 0 0 12px 4px #5b5484;}
